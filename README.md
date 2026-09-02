@@ -27,13 +27,5 @@ I work with prompt design, context engineering, AI agents, MCP-based integration
 
 ## 📬 Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/demetriomjr/" aria-label="LinkedIn profile">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" height="28" alt="LinkedIn" />
-  </a>
-</p>
-<p>
-  <a href="mailto:dm3o@live.com" aria-label="Email Demétrio">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoutlook.svg" height="28" alt="Email" />
-  </a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/demetriomjr/)
+- ✉️ [Email](mailto:dm3o@live.com)
